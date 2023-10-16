@@ -1,0 +1,13 @@
+.catalogo{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    text-align: center;
+    margin: 100px;
+}
+img:hover{
+    scale:1.1;
+}
+.titulo{
+    color:aliceblue
+}

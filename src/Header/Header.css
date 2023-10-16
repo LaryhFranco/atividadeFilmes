@@ -1,0 +1,17 @@
+.header-menu {
+    background-color: rgb(39, 37, 37);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+
+h2{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+h2:hover{
+    color: grey;
+}
